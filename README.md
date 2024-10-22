@@ -17,7 +17,7 @@ In my free time, I love to cook, hike, play video games with friends and play wi
 ### ⚡ Software Development Intern at the Center for Energy Research ⚡ 
 **Technologies**: `JavaScript`, `TypeScript`, `React`, `React Native`, `CSS` 
 
-I'm currently engineering an [iOS app](https://github.com/Center-For-Energy-TEC-App/Tec-App), featuring interactive data visualizations and educational models on clean energy. I built a Bottom Sheet displaying 5 renewable energy sources for each of the 10 global regions when selected on a map, implementing sliders that allow users to change energy source values and visualize the effects of the changes
+I'm currently engineering a [mobile app](https://github.com/Center-For-Energy-TEC-App/Tec-App), featuring interactive data visualizations and educational models on clean energy. 
 
 
 <br>
