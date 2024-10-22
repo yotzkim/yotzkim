@@ -29,7 +29,7 @@ I was selected as **1 of 150 from over 10,000** applicants to participate in the
 
 <br>
 
-### 🤖 Deep Learning Researcher at the Knight Lab 🤖
+### 🤖 Machine Learning Researcher at the Knight Lab 🤖
 **Technologies**: `Linux`, `Python`, `TensorFlow`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` | [Research Poster](https://drive.google.com/file/d/1Je8GKGgWp9ZgSt9cR3vF2-ZzjPm55J0y/view?usp=sharing)
 
 At the Knight Lab at UC San Diego, I helped fine-tune an [attention-based neural network](https://github.com/kwcantrell/attention-all-microbes) with over 7,000 gut microbiome samples to predict an individual's diet given their microbiome profile, achieving a 20x lower Mean Squared Error in predicting an individual's Total Dietary Fiber intake compared to the state-of-the-art Random Forest Model.
